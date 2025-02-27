@@ -1,16 +1,40 @@
-# teste
+<h1>📱 Gerenciador de Contatos - Flutter </h1>
 
-A new Flutter project.
+Um <strong>componente dinâmico</strong> para adicionar, editar e remover contatos em tempo real. Essa é a base para um projeto maior, como um app completo de contatos, CRM mobile ou sistema de gestão de clientes.
+🚀 Funcionalidades
 
-## Getting Started
+✅ Adicionar novos contatos através de um modal intuitivo.
+✅ Editar contatos diretamente na lista.
+✅ Remover contatos de forma dinâmica.
+✅ Interface simples e responsiva.
+🛠️ Tecnologias
 
-This project is a starting point for a Flutter application.
+    Flutter (Framework mobile)
+    Dart (Linguagem de programação)
 
-A few resources to get you started if this is your first Flutter project:
+📦 Como rodar o projeto
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+    Clone o repositório:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+git clone https://github.com/TheoTavora/FlutterBasico
+
+Acesse a pasta do projeto:
+
+cd listadecontatos
+
+Instale as dependências:
+
+flutter pub get
+
+Rode o projeto:
+
+    flutter run
+
+🔥 Próximos Passos
+
+    Integração com banco de dados
+    Autenticação de usuários
+    Sincronização em tempo real
+    Exportação/importação de contatos
+
+💡 Sugestões e colaborações são bem-vindas!
